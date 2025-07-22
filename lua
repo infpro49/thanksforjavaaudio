@@ -1,4 +1,4 @@
-
+-- enjoy the script to people who are using it :D--
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 	local RequestCommand = ReplicatedStorage:WaitForChild("HDAdminHDClient").Signals.RequestCommandSilent
 RequestCommand:InvokeServer(";btools me")
